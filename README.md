@@ -11,3 +11,6 @@ all subject
 - Linked List
 - Fibonacci
 - Destructors
+
+will start again later
+
